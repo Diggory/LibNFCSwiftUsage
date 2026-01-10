@@ -1,0 +1,24 @@
+{
+  "originHash" : "4486bd8f46b10b135f2b5f1389898cb7ebe2b4d708a57aaaaaa5ed729fc7fa7b",
+  "pins" : [
+    {
+      "identity" : "libnfcswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Diggory/LibNFCSwift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0b8f53327b2736c319e0f5928e52e553da9965d2"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "c5d11a805e765f52ba34ec7284bd4fcd6ba68615",
+        "version" : "1.7.0"
+      }
+    }
+  ],
+  "version" : 3
+}
