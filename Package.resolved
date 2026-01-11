@@ -1,5 +1,5 @@
 {
-  "originHash" : "4486bd8f46b10b135f2b5f1389898cb7ebe2b4d708a57aaaaaa5ed729fc7fa7b",
+  "originHash" : "4d081616f383d9f7bc7437675310dff8f97ca43e29d525549be6f66239135604",
   "pins" : [
     {
       "identity" : "libnfcswift",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/Diggory/LibNFCSwift.git",
       "state" : {
         "branch" : "main",
-        "revision" : "0b8f53327b2736c319e0f5928e52e553da9965d2"
+        "revision" : "90642cf892d99ed993ade174e0eaec3eb3767cf9"
       }
     },
     {

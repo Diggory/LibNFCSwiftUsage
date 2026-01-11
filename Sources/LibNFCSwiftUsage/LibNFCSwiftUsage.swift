@@ -12,5 +12,7 @@ struct LibNFCSwiftUsage: ParsableCommand {
         nfc.nfcInit()
         nfc.nfcOpen()
         print("NFC Device name: \(nfc.deviceName() ?? "Unknown device name")")
+
+        nfc.nfcInit()
     }
 }
